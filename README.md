@@ -1,1 +1,1 @@
-# SignEase
+# SignEase App
